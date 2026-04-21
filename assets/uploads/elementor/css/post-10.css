@@ -1,0 +1,50 @@
+.elementor-kit-10{--e-global-color-primary:#000A1E;--e-global-color-secondary:#367AFF;--e-global-color-text:#606060;--e-global-color-accent:#4E63BC;--e-global-color-2145ee6:#848484;--e-global-color-ed147a9:#D5D5D5;--e-global-color-7f3e2ee:#F4F4F4;--e-global-color-4157669:#F2F2F2;--e-global-color-9ee1cd3:#FFFFFF;--e-global-typography-primary-font-family:"Inter";--e-global-typography-primary-font-size:clamp(2.25rem, 1.663rem + 2.6087vw, 3.75rem);--e-global-typography-primary-font-weight:400;--e-global-typography-primary-line-height:1.3;--e-global-typography-secondary-font-family:"Inter";--e-global-typography-secondary-font-size:clamp(1.875rem, 1.4348rem + 1.9565vw, 3rem);--e-global-typography-secondary-font-weight:400;--e-global-typography-secondary-line-height:1.3;--e-global-typography-text-font-family:"Inter";--e-global-typography-text-font-size:clamp(0.8125rem, 0.7391rem + 0.3261vw, 1rem);--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:1.3;--e-global-typography-accent-font-family:"Inter";--e-global-typography-accent-font-size:clamp(1.25rem, 0.9565rem + 1.3043vw, 2rem);--e-global-typography-accent-font-weight:400;--e-global-typography-accent-line-height:1.3;--e-global-typography-2703a67-font-family:"Inter";--e-global-typography-2703a67-font-size:clamp(3rem, 2.2174rem + 3.4783vw, 5rem);--e-global-typography-2703a67-font-weight:400;--e-global-typography-2703a67-line-height:1.3;--e-global-typography-bc92b52-font-family:"Inter";--e-global-typography-bc92b52-font-size:clamp(1rem, 0.8043rem + 0.8696vw, 1.5rem);--e-global-typography-bc92b52-font-weight:400;--e-global-typography-bc92b52-line-height:1.3;--e-global-typography-3af46a4-font-family:"Inter";--e-global-typography-3af46a4-font-size:clamp(0.9375rem, 0.7663rem + 0.7609vw, 1.375rem);--e-global-typography-3af46a4-line-height:1.3;--e-global-typography-f7b31ce-font-family:"Inter";--e-global-typography-f7b31ce-font-size:clamp(0.875rem, 0.7283rem + 0.6522vw, 1.25rem);--e-global-typography-f7b31ce-font-weight:400;--e-global-typography-f7b31ce-line-height:1.3;--e-global-typography-012b6b7-font-family:"Inter";--e-global-typography-012b6b7-font-size:clamp(0.8125rem, 0.6902rem + 0.5435vw, 1.125rem);--e-global-typography-012b6b7-font-weight:400;--e-global-typography-012b6b7-line-height:1.3;--e-global-typography-aa8a14c-font-family:"Inter";--e-global-typography-aa8a14c-font-size:clamp(0.75rem, 0.7011rem + 0.2174vw, 0.875rem);--e-global-typography-aa8a14c-font-weight:400;--e-global-typography-aa8a14c-line-height:1.3;background-color:#FFFFFF;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1280px;}.e-con{--container-max-width:1280px;--container-default-padding-top:0px;--container-default-padding-right:0px;--container-default-padding-bottom:0px;--container-default-padding-left:0px;}.elementor-widget:not(:last-child){--kit-widget-spacing:0px;}.elementor-element{--widgets-spacing:0px 0px;--widgets-spacing-row:0px;--widgets-spacing-column:0px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('/assets/uploads/2026/04/Inter_28pt-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('/assets/uploads/2026/04/Inter_28pt-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('/assets/uploads/2026/04/Inter_28pt-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('/assets/uploads/2026/04/Inter_28pt-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('/assets/uploads/2026/04/Inter_28pt-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('/assets/uploads/2026/04/Inter_28pt-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('/assets/uploads/2026/04/Inter_28pt-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
